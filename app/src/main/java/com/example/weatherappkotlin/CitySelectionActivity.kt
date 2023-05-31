@@ -2,6 +2,8 @@ package com.example.weatherapp
 
 import android.content.Intent
 import android.os.Bundle
+import android.view.View
+import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.ListView
 import android.widget.SearchView
@@ -13,14 +15,14 @@ import org.json.JSONObject
 import java.io.IOException
 import java.nio.charset.StandardCharsets
 
-data class City(val name: String, val id: String)
-
 class CitySelectionActivity : AppCompatActivity() {
 
     private lateinit var cityList: ListView
     private lateinit var searchView: SearchView
-    private var cities: ArrayList<City> = ArrayList()
+    private var cities: ArrayList<String> = ArrayList()
     private lateinit var cityJsonArray: JSONArray
+    private lateinit var adapter: ArrayAdapter<String>
+    private var cityIdMap: HashMap<String, String> = HashMap()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -37,11 +39,20 @@ class CitySelectionActivity : AppCompatActivity() {
                     val cityObject = cityJsonArray.getJSONObject(i)
                     val cityName = cityObject.getString("name")
                     val cityId = cityObject.getString("id")
-                    cities.add(City(cityName, cityId))
+                    cities.add(cityName)
+                    cityIdMap[cityName] = cityId
                 }
-
-                val adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, cities.map { it.name })
+                adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, cities)
                 cityList.adapter = adapter
+
+                cityList.setOnItemClickListener { _, _, position, _ ->
+                    val intent = Intent(this@CitySelectionActivity, WeatherActivity::class.java)
+                    val selectedCityName = adapter.getItem(position)
+                    if (selectedCityName != null) {
+                        intent.putExtra("cityID", cityIdMap[selectedCityName])
+                        startActivity(intent)
+                    }
+                }
 
             } catch (e: JSONException) {
                 e.printStackTrace()
@@ -54,21 +65,14 @@ class CitySelectionActivity : AppCompatActivity() {
             }
 
             override fun onQueryTextChange(newText: String): Boolean {
-                val filteredCities = ArrayList<City>()
+                val filteredCities = ArrayList<String>()
                 for (city in cities) {
-                    if (city.name.toLowerCase().contains(newText.toLowerCase())) {
+                    if (city.toLowerCase().contains(newText.toLowerCase())) {
                         filteredCities.add(city)
                     }
                 }
-                val adapter = ArrayAdapter(this@CitySelectionActivity, android.R.layout.simple_list_item_1, filteredCities.map { it.name })
+                adapter = ArrayAdapter(this@CitySelectionActivity, android.R.layout.simple_list_item_1, filteredCities)
                 cityList.adapter = adapter
-
-                cityList.setOnItemClickListener { _, _, position, _ ->
-                    val intent = Intent(this@CitySelectionActivity, WeatherActivity::class.java)
-                    intent.putExtra("cityID", filteredCities[position].id)
-                    startActivity(intent)
-                }
-
                 return false
             }
         })
