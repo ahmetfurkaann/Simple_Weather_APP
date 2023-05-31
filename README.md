@@ -1,4 +1,4 @@
-# Hava Durumu Uygulaması
+# Hava Durumu Uygulaması (Kotlin)
 
 Bu projede, kullanıcılar farklı şehirlerdeki hava durumunu kontrol edebilirsiniz.
 
