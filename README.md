@@ -17,12 +17,12 @@ Emulatorü başlatın veya gerçek bir cihaza bağlanın.
 Run > Run 'app''ı tıklayın.
 
 # Özellikler
-Şehirlerin listesini görme ve arama yapabilme.
-Belirli bir şehirdeki mevcut hava durumu bilgilerini görme.
-Şehirlerin ayrıntılarını ve hava durumunu içeren bir API ile entegrasyon.
++ Şehirlerin listesini görme ve arama yapabilme.
++ Belirli bir şehirdeki mevcut hava durumu bilgilerini görme.
++ Şehirlerin ayrıntılarını ve hava durumunu içeren bir API ile entegrasyon.
 
 # Kullanım
-Uygulamayı açın.
-Arama çubuğuna bir şehir adı girin.
-Arama sonuçlarından bir şehir seçin.
-Seçilen şehrin hava durumu bilgileri görüntülenecektir.
++ Uygulamayı açın.
++ Arama çubuğuna bir şehir adı girin.
++ Arama sonuçlarından bir şehir seçin.
++ Seçilen şehrin hava durumu bilgileri görüntülenecektir.
