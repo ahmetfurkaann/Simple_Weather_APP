@@ -1,0 +1,812 @@
+[
+    {
+        "id": 325363,
+        "name": "Adana",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 35.328892,
+            "lat": 37.001671
+        }
+    },
+    {
+        "id": 325329,
+        "name": "Adıyaman",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 38.25,
+            "lat": 37.75
+        }
+    },
+    {
+        "id": 325302,
+        "name": "Afyonkarahisar",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 30.66667,
+            "lat": 38.75
+        }
+    },
+    {
+        "id": 324496,
+        "name": "Aksaray",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.025372,
+            "lat": 38.372551
+        }
+    },
+    {
+        "id": 752014,
+        "name": "Amasya",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 35.833328,
+            "lat": 40.666672
+        }
+    },
+    {
+        "id": 323784,
+        "name": "Ankara",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 32.833328,
+            "lat": 39.916672
+        }
+    },
+    {
+        "id": 323777,
+        "name": "Antalya",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 30.69556,
+            "lat": 36.908119
+        }
+    },
+    {
+        "id": 751952,
+        "name": "Ardahan",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 42.702221,
+            "lat": 41.108711
+        }
+    },
+    {
+        "id": 751817,
+        "name": "Artvin",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 41.819439,
+            "lat": 41.18222
+        }
+    },
+    {
+        "id": 322819,
+        "name": "Aydın",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 28.0,
+            "lat": 37.75
+        }
+    },
+    {
+        "id": 325163,
+        "name": "Ağrı",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 43.166672,
+            "lat": 39.666672
+        }
+    },
+    {
+        "id": 322164,
+        "name": "Balıkesir",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 28.0,
+            "lat": 39.75
+        }
+    },
+    {
+        "id": 862467,
+        "name": "Bartın",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 32.5,
+            "lat": 41.583328
+        }
+    },
+    {
+        "id": 321836,
+        "name": "Batman",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 41.13221,
+            "lat": 37.887379
+        }
+    },
+    {
+        "id": 862471,
+        "name": "Bayburt",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 40.25,
+            "lat": 40.25
+        }
+    },
+    {
+        "id": 321122,
+        "name": "Bilecik",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 30.16667,
+            "lat": 40.0
+        }
+    },
+    {
+        "id": 321082,
+        "name": "Bingöl",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 40.493889,
+            "lat": 38.88472
+        }
+    },
+    {
+        "id": 321022,
+        "name": "Bitlis",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 42.25,
+            "lat": 38.5
+        }
+    },
+    {
+        "id": 750516,
+        "name": "Bolu",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 31.60611,
+            "lat": 40.735828
+        }
+    },
+    {
+        "id": 320390,
+        "name": "Burdur",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 30.0,
+            "lat": 37.5
+        }
+    },
+    {
+        "id": 750269,
+        "name": "Bursa",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 29.06111,
+            "lat": 40.191669
+        }
+    },
+    {
+        "id": 317106,
+        "name": "Denizli",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 29.06982,
+            "lat": 37.84016
+        }
+    },
+    {
+        "id": 316541,
+        "name": "Diyarbakır",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 40.218891,
+            "lat": 37.915829
+        }
+    },
+    {
+        "id": 747764,
+        "name": "Düzce",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 31.163891,
+            "lat": 40.83889
+        }
+    },
+    {
+        "id": 747712,
+        "name": "Edirne",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 26.555969,
+            "lat": 41.677189
+        }
+    },
+    {
+        "id": 315808,
+        "name": "Elazığ",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 39.223209,
+            "lat": 38.674309
+        }
+    },
+    {
+        "id": 315372,
+        "name": "Erzincan",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 39.5,
+            "lat": 39.75
+        }
+    },
+    {
+        "id": 315368,
+        "name": "Erzurum",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 41.276939,
+            "lat": 39.908611
+        }
+    },
+    {
+        "id": 315201,
+        "name": "Eskişehir",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 31.16667,
+            "lat": 39.666672
+        }
+    },
+    {
+        "id": 314830,
+        "name": "Gaziantep",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 37.3825,
+            "lat": 37.059441
+        }
+    },
+    {
+        "id": 746878,
+        "name": "Giresun",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 38.5,
+            "lat": 40.5
+        }
+    },
+    {
+        "id": 746423,
+        "name": "Gümüşhane",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 39.583328,
+            "lat": 40.25
+        }
+    },
+    {
+        "id": 318137,
+        "name": "Hakkâri",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 43.740829,
+            "lat": 37.57444
+        }
+    },
+    {
+        "id": 312394,
+        "name": "Hatay",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 36.25,
+            "lat": 36.5
+        }
+    },
+    {
+        "id": 311071,
+        "name": "Isparta",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 31.0,
+            "lat": 38.0
+        }
+    },
+    {
+        "id": 443184,
+        "name": "Iğdır",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 44.0,
+            "lat": 39.916672
+        }
+    },
+    {
+        "id": 310858,
+        "name": "Kahramanmaraş",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 37.0,
+            "lat": 38.0
+        }
+    },
+    {
+        "id": 862468,
+        "name": "Karabük",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 32.5,
+            "lat": 41.25
+        }
+    },
+    {
+        "id": 309527,
+        "name": "Karaman",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 33.215,
+            "lat": 37.18111
+        }
+    },
+    {
+        "id": 743952,
+        "name": "Kars",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 43.094952,
+            "lat": 40.60199
+        }
+    },
+    {
+        "id": 743882,
+        "name": "Kastamonu",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 33.77528,
+            "lat": 41.378052
+        }
+    },
+    {
+        "id": 308463,
+        "name": "Kayseri",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 35.49683,
+            "lat": 38.73695
+        }
+    },
+    {
+        "id": 443213,
+        "name": "Kilis",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 37.139999,
+            "lat": 36.73
+        }
+    },
+    {
+        "id": 742865,
+        "name": "Kocaeli",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 29.91667,
+            "lat": 40.916672
+        }
+    },
+    {
+        "id": 306571,
+        "name": "Konya",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 32.484638,
+            "lat": 37.871349
+        }
+    },
+    {
+        "id": 305267,
+        "name": "Kütahya",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 29.5,
+            "lat": 39.25
+        }
+    },
+    {
+        "id": 743166,
+        "name": "Kırklareli",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 27.22521,
+            "lat": 41.735081
+        }
+    },
+    {
+        "id": 307515,
+        "name": "Kırşehir",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.163891,
+            "lat": 39.145828
+        }
+    },
+    {
+        "id": 304919,
+        "name": "Malatya",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 38.0,
+            "lat": 38.5
+        }
+    },
+    {
+        "id": 304827,
+        "name": "Manisa",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 27.42646,
+            "lat": 38.612019
+        }
+    },
+    {
+        "id": 304794,
+        "name": "Mardin",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 40.715328,
+            "lat": 37.317749
+        }
+    },
+    {
+        "id": 311728,
+        "name": "Mersin",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.650879,
+            "lat": 36.862041
+        }
+    },
+    {
+        "id": 304183,
+        "name": "Muğla",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 28.355709,
+            "lat": 37.230331
+        }
+    },
+    {
+        "id": 304081,
+        "name": "Muş",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 41.506931,
+            "lat": 38.745251
+        }
+    },
+    {
+        "id": 303830,
+        "name": "Nevşehir",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.666672,
+            "lat": 38.916672
+        }
+    },
+    {
+        "id": 303827,
+        "name": "Niğde",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.679352,
+            "lat": 37.965832
+        }
+    },
+    {
+        "id": 741098,
+        "name": "Ordu",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 37.684479,
+            "lat": 40.908581
+        }
+    },
+    {
+        "id": 443183,
+        "name": "Osmaniye",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 36.24596,
+            "lat": 37.235249
+        }
+    },
+    {
+        "id": 740481,
+        "name": "Rize",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 40.89489,
+            "lat": 40.90443
+        }
+    },
+    {
+        "id": 740483,
+        "name": "Rize",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 40.521938,
+            "lat": 41.020828
+        }
+    },
+    {
+        "id": 740352,
+        "name": "Sakarya",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 30.58333,
+            "lat": 40.75
+        }
+    },
+    {
+        "id": 740263,
+        "name": "Samsun",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 36.333328,
+            "lat": 41.25
+        }
+    },
+    {
+        "id": 300822,
+        "name": "Siirt",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 41.94025,
+            "lat": 37.932621
+        }
+    },
+    {
+        "id": 739598,
+        "name": "Sinop",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.870949,
+            "lat": 41.771061
+        }
+    },
+    {
+        "id": 300617,
+        "name": "Sivas",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 37.001949,
+            "lat": 39.791649
+        }
+    },
+    {
+        "id": 738927,
+        "name": "Tekirdağ",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 27.50852,
+            "lat": 40.978008
+        }
+    },
+    {
+        "id": 738742,
+        "name": "Tokat",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 36.583328,
+            "lat": 40.416672
+        }
+    },
+    {
+        "id": 738647,
+        "name": "Trabzon",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 39.833328,
+            "lat": 40.916672
+        }
+    },
+    {
+        "id": 298846,
+        "name": "Tunceli",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 39.547112,
+            "lat": 39.108292
+        }
+    },
+    {
+        "id": 298298,
+        "name": "Uşak",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 29.41667,
+            "lat": 38.5
+        }
+    },
+    {
+        "id": 298117,
+        "name": "Van",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 43.38311,
+            "lat": 38.49239
+        }
+    },
+    {
+        "id": 738025,
+        "name": "Yalova",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 29.27693,
+            "lat": 40.655022
+        }
+    },
+    {
+        "id": 296562,
+        "name": "Yozgat",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.80444,
+            "lat": 39.82
+        }
+    },
+    {
+        "id": 737021,
+        "name": "Zonguldak",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 31.83333,
+            "lat": 41.25
+        }
+    },
+    {
+        "id": 749778,
+        "name": "Çanakkale",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 26.83333,
+            "lat": 40.083328
+        }
+    },
+    {
+        "id": 749747,
+        "name": "Çankırı",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 33.416672,
+            "lat": 40.666672
+        }
+    },
+    {
+        "id": 748877,
+        "name": "Çorum",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 34.75,
+            "lat": 40.5
+        }
+    },
+    {
+        "id": 745042,
+        "name": "İstanbul",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 28.983311,
+            "lat": 41.03508
+        }
+    },
+    {
+        "id": 311044,
+        "name": "İzmir",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 27.092291,
+            "lat": 38.462189
+        }
+    },
+    {
+        "id": 298333,
+        "name": "Şanlıurfa",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 38.793919,
+            "lat": 37.16708
+        }
+    },
+    {
+        "id": 300640,
+        "name": "Şırnak",
+        "state": "",
+        "country": "TR",
+        "coord": {
+            "lon": 42.459438,
+            "lat": 37.522781
+        }
+    }
+]
