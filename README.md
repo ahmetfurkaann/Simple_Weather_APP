@@ -7,7 +7,7 @@ Bu projede, kullanıcılar farklı şehirlerdeki hava durumunu kontrol edebilirs
 1. Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/yourusername/weatherapp.git
+git clone https://github.com/ahmetfurkaann/Simple_Weather_App.git
 ```
 
 Android Studio'da projeyi açın.
