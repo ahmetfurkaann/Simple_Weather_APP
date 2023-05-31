@@ -42,6 +42,7 @@ class CitySelectionActivity : AppCompatActivity() {
                     cities.add(cityName)
                     cityIdMap[cityName] = cityId
                 }
+
                 adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, cities)
                 cityList.adapter = adapter
 
